@@ -1,6 +1,6 @@
 # Desafio Spring - Social Meli
 
-Neste repositório está a implementação do **Desafio Spring** do módulo sobre Spring Boot do bootcamp da Digital House realizado no Mercado Livre:yellow_heart::blue_heart:.
+Neste repositório está a implementação do **Desafio Spring** do módulo sobre Spring Boot :yellow_heart::blue_heart:.
 
 A aplicação desenvolvida consiste em uma API REST que permite que compradores sigam vendedores que podem realizar publicações de novos produtos na plataforma. O sistema desenvolvido é denominado **SocialMeli** :rocket:.
 
